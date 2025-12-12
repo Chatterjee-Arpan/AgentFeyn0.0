@@ -1,0 +1,5 @@
+{
+  "name": "Particle Agents",
+  "description": "A multi-agent workspace for validating and visualizing particle physics interactions using Gemini and TikZ.",
+  "requestFramePermissions": []
+}
