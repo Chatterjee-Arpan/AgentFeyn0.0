@@ -1,7 +1,7 @@
 ![Landing Page](Images/Image1.png)
 # Run and deploy the app
 
-This contains everything you need to run your app locally.
+This contains everything you need to run the app locally.
 
 ## Run Locally
 
