@@ -32,7 +32,7 @@ Theoretical physics workflows are fragmented.
 It orchestrates a specialized multi-agent system:
 
 - **Theorist & Orchestrator**: Parse math and validate conservation laws (e.g., charge, lepton number) before drawing.  
-- **Illustrator**: Automates vector geometry, rendering mathematically accurate SVG/PNGs.  
+- **Illustrator**: Automates vector geometry, rendering mathematically accurate SVG/PNGs. You can download these images as a PNG file directly to your local system.
 - **Teacher**: Acts as an intelligent copilot, providing context-aware explanations and allowing researchers to refine ideas and the forged diagrams.
 
 ## Impact
